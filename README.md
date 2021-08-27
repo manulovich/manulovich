@@ -4,7 +4,7 @@
 
 ## I`m a Frontend Developer
 - ✍️ I like ti write code
-- 🚲 I like to write bicycles
+- 🚲 I love reinventing bicycles
 - 🖥 I am studying in the 3rd year of agricultural engineering
 - 📗 I like to read sometimes
 
